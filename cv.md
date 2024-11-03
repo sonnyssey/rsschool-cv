@@ -2,4 +2,4 @@
 
 ## Контактная информация
 - Email: sonnyssey@gmail.com
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/sonnyssey/
